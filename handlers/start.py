@@ -12,12 +12,12 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        f"""<b>[💌](https://telegra.ph/file/c6c36a4bcecef600fd9be.jpg) Welcome {message.from_user.first_name}!
-**musiqo** is a bot designed for **stream** on your group, as **simple** as possible, through the **voice chats** in your group.
+        f"""<b>[💝](https://telegra.ph/file/42f540d4f13c41781567e.jpg) Welcome {message.from_user.first_name}!
+**Parvathy** is a bot designed for **stream** on your group, as **simple** as possible, through the **voice chats** in your group.
 
 **❓How to use it❓**
 Press the » **COMMANDS** to view the full list of the commands of the bot!
-and Join [support](https://t.me/unitedbotsupport) to know about this bot 
+and Join [support](https://t.me/noobiezhub) to know about this bot 
 🔺Use /source for bot source code and pyrostring🔻
 <\b>""",
       
@@ -26,18 +26,18 @@ and Join [support](https://t.me/unitedbotsupport) to know about this bot
             [
                 [
                     InlineKeyboardButton(
-                        "COMMANDS", url="https://telegra.ph/𝚖𝚞𝚜𝚒𝚚𝚘-Sᴏɴɢ-06-09",
+                        "Commands", url="https://telegra.ph/𝚖𝚞𝚜𝚒𝚚𝚘-Sᴏɴɢ-06-09",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Support Group", url="https://t.me/unitedbotsupport"
+                        "Support", url="https://t.me/noobiezhub"
                     ),
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/Tubots"
+                        "Marvel", url="https://t.me/marvelmoviesearth616"
                     ),
                     InlineKeyboardButton(
-                        "Credits", url="https://t.me/Psycho_Bots"
+                        "Owner", url="https://t.me/itzmezeus"
                     )
                 ],
                 [
@@ -61,10 +61,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/Tubots"
+                        "Support", url="https://t.me/noobiezhub"
                     ),
                     InlineKeyboardButton(
-                        "Report bugs", url="https://t.me/Unitedbotsupport"
+                        "Marvel", url="https://t.me/marvelmoviesearth616"
                     )
                 ],    
                 [    
@@ -90,10 +90,10 @@ async def source(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "github repo", url="https://github.com/LucidoXD/musiqo"
+                        "Owner", url="https://t.me/itzmezeus"
                     ),
                     InlineKeyboardButton(
-                        "string generator", url="https://replit.com/@basimon/GMusiqopyrostring"
+                        "Marvel", url="https://t.me/marvelmoviesearth616"
                     )
                 ]
             ]
