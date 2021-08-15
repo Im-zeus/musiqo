@@ -17,8 +17,7 @@ async def start_(client: Client, message: Message):
 
 **❓How to use it❓**
 Press the » **COMMANDS** to view the full list of the commands of the bot!
-and Join [support](https://t.me/noobiezhub) to know about this bot 
-🔺Use /source for bot source code and pyrostring🔻
+and Join [support](https://t.me/noobiezhub) to know about this bot.
 <\b>""",
       
        
@@ -26,7 +25,7 @@ and Join [support](https://t.me/noobiezhub) to know about this bot
             [
                 [
                     InlineKeyboardButton(
-                        "Commands", url="https://telegra.ph/𝚖𝚞𝚜𝚒𝚚𝚘-Sᴏɴɢ-06-09",
+                        "Commands", url="https://telegra.ph/Commands-08-15",
                     )
                 ],
                 [
