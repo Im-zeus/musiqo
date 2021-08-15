@@ -689,7 +689,7 @@ async def play(_, message: Message):
 
     except:
 
-        user.first_name =  "musiqo_Assistant"
+        user.first_name =  "Parvathy_robot"
 
     usar = user
 
@@ -729,7 +729,7 @@ async def play(_, message: Message):
 
                               await lel.edit(
 
-                                  "<b>@musiqo_Assistant has joined the chat</b>",
+                                  "<b>@Parvathy_robot has joined the chat</b>",
 
                               )
 
@@ -743,9 +743,9 @@ async def play(_, message: Message):
 
                               await lel.edit(
 
-                                  f"<b>Flood wait timeout \nUser {user.first_name} flooding request userbot cant join group, check @Noravc_assistant banned here or contact support"
+                                  f"<b>Flood wait timeout \nUser {user.first_name} flooding request userbot cant join group, check @Parvathy_robot banned here or contact support"
 
-                                  "<b>add @musiqo_Assistant and try again</b>",
+                                  "<b>add @Parvathy_robot and try again</b>",
 
                               )
 
@@ -761,7 +761,7 @@ async def play(_, message: Message):
 
         await lel.edit(
 
-            f"<i>@musiqo_Assistant is not in the chat, ask admin to send /play command for add assistant manually.</i>"
+            f"<i>@Parvathy_robot is not in the chat, ask admin to send /play command for add assistant manually.</i>"
 
         )
 
