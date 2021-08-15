@@ -42,7 +42,7 @@ and Join [support](https://t.me/noobiezhub) to know about this bot
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add to your group", url="https://t.me/Musiqorobot?startgroup=true"
+                        "Add to your group", url="https://t.me/Parvathy_MusicRobot?startgroup=true"
                     ) 
                 ]
             ]
